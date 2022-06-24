@@ -1,0 +1,19 @@
+[
+{
+"pack_id" :"UUID MANIFEST HERE",
+"version" : [0,0,0]
+}
+]
+
+Multiple :
+
+[
+{
+"Pack_id" : "UUID MANIFEST HERE",
+"version" : [0,0,0]
+}, <==== Adding Coma
+{
+"Pack_id" : "UUID MANIFEST"
+"versiin" : [0,0,0]
+}
+]
